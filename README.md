@@ -1,7 +1,8 @@
-# Hello 
-This doucoment is about Binance Market Stock
+# SA_real_estate_analysis
+The repository "SA_real_estate_analysis" is a collection of files and resources that focuses on the analysis of the real estate market in Riyadh. It contains data, code, and documentation related to the analysis and insights derived from studying the real estate landscape in Riyadh, Saudi Arabia.
 
+*Code Folder* : contains the EDA code and the AQAR dataset.
 
-#plese consider the following instruction 
+*AQAR Visualization plots Folder* : contains all Visualization plots.
 
-note this project not resbonsible for any harm effect you 
+*Docs* : contains the AQAR Report and AQAR presentation.
